@@ -1,0 +1,1 @@
+Anki Enforcer is an Anki add-on that forces you to complete your daily card reviews by blocking app closure or minimization until your selected decks are finished. Perfect for those who need that extra push to stay on track, with motivational popups to keep you focused.
