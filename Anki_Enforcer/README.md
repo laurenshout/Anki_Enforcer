@@ -17,9 +17,9 @@ Many users struggle with procrastination or distractions while studying with Ank
 
 ## Installation
 
-1. Download the add-on file (`.ankiaddon`).
-2. In Anki, go to `Tools` > `Add-ons` > `Install from file...`.
-3. Select the downloaded `.ankiaddon` file and click `Open`.
+1. Download the repository as a ZIP file from GitHub and extract it.
+2. Locate your Anki add-ons folder: `%APPDATA%\Anki2\addons21\` (on Windows).
+3. Drag and drop the extracted `Anki_Enforcer` folder into the `addons21` directory.
 4. Restart Anki to activate the add-on.
 
 ## How to Use
