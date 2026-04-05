@@ -1,0 +1,17 @@
+{
+  "enabled": false,
+  "required_deck_ids": [],
+  "fallback_password_hash": "",
+  "fallback_password_plain": "",
+  "anki_executable_path": "",
+  "fallback_enabled": false,
+  "popup_duration_seconds": 4,
+  "image_folder": "assets/images",
+  "insult_messages": [
+    "No excuses. Finish your decks first.",
+    "Sit down and review your cards.",
+    "You can leave after the required decks are done.",
+    "Back to work. Decks first, distractions later."
+  ],
+  "focus_loss_behavior": "warn_only"
+}
