@@ -15,6 +15,7 @@ Anki Enforcer is an Anki add-on that keeps you in study mode until your chosen d
 ## Installation
 
 Choose one of these approaches.
+Or use the download code: 494395452 (https://ankiweb.net/shared/info/494395452)
 
 ### Install From Source Folder
 
@@ -188,3 +189,4 @@ See `AUTO_START_WINDOWS.md` for more detail.
 - `anki_enforcer/ui/`: settings and popup UI
 - `anki_enforcer/services/`: enforcement, fallback, and progress logic
 - `scripts/`: packaging and Windows auto-start helpers
+
