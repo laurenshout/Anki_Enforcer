@@ -15,7 +15,7 @@ Anki Enforcer is an Anki add-on that keeps you in study mode until your chosen d
 ## Installation
 
 Choose one of these approaches.
-Or use the download code: 494395452 (https://ankiweb.net/shared/info/494395452)
+
 
 ### Install From Source Folder
 
@@ -24,12 +24,11 @@ Or use the download code: 494395452 (https://ankiweb.net/shared/info/494395452)
 3. Copy the extracted `Anki_Enforcer` folder into `addons21`.
 4. Restart Anki.
 
-### Install From Packaged Add-on
+### Download
 
-1. Obtain the built `.ankiaddon` file.
-2. In Anki, go to `Tools` > `Add-ons` > `Install from file...`
-3. Select the `.ankiaddon` file.
-4. Restart Anki.
+1. In Anki, go to `Tools` > `Add-ons` > `Get add-ons`
+2. Enter the code `494395452` (https://ankiweb.net/shared/info/494395452)
+3. Restart Anki.
 
 ## Quick Start
 
